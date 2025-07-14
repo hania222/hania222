@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Hania Hazem</h1>
 
-<!--
-**hania222/hania222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Mechatronics Engineer | 💻 Data Analyst & Explorer |🧠 AI & ML Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about turning raw data into insights using Python Power BI.  
+Currently focused on data preprocessing, exploratory data analysis (EDA), and real-world analytics projects.
+
+---
+
+
+## 🛠️ Skills
+
+- **Languages**: Python, SQL, T_SQL
+- **Tools**: Power BI, Tableau, SQL Server, Excel proficiency, Git, Microsoft Azure  
+- **Concepts**: ERD, EDA, Visualization, Data warehousing
+
+---
+
+## 📫 Connect With Me
+
+- [[LinkedIn](https://linkedin.com/in/your-profile)  ](https://www.linkedin.com/in/hania-hazem-1714b1231/)
+- 📧 haniahazem60@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
