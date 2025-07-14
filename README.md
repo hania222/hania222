@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about turning raw data into insights using Python Power BI.  
+I'm passionate about turning raw data into insights .  
 Currently focused on data preprocessing, exploratory data analysis (EDA), and real-world analytics projects.
 
 ---
